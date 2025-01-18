@@ -1,16 +1,15 @@
-# myapp
+# Meu Primeiro Projeto Flutter
 
-A new Flutter project.
+Este é o meu primeiro projeto desenvolvido com Flutter! 🎉
 
-## Getting Started
+Criei este projeto como parte do módulo de Desenvolvimento Web do programa Talento Tech. Ele é simples, mas tem um propósito especial: acompanhar minha evolução na jornada de aprendizado com Flutter, HTML e CSS.
 
-This project is a starting point for a Flutter application.
+Pretendo continuar aprimorando minhas habilidades e logo mais terei novos projetos mais avançados
 
-A few resources to get you started if this is your first Flutter project:
+# My First Flutter Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is my first project developed with Flutter! 🎉
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I created this project as part of the Web Development module of the Talento Tech program. It's simple, but it has a special purpose: to follow my progress in my learning journey with Flutter, HTML and CSS.
+
+I intend to continue improving my skills and soon I will have new, more advanced projects
